@@ -1,0 +1,26 @@
+_repo: Alida--or-Miscellaneous-Sketches-of-Incidents-During-the-Late-American-War.--13-Founded-on-Fa__33647
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Comfield, Amelia Stratton
+    gutenberg_agent_id: '36519'
+    url: http://www.gutenberg.org/2009/agents/36519
+description: ''
+gutenberg_issued: '2010-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33647'
+  lccn: 06030669
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Juvenile fiction'
+title: "Alida; or, Miscellaneous Sketches of Incidents During the Late American War.\r\
+  \nFounded on Fact"
+url: http://www.gutenberg.org/ebooks/33647
